@@ -1,1 +1,0 @@
-window.confirm ("Are you ready to generate a password?");
