@@ -1,1 +1,2 @@
 # Password-Generator
+This is my first attempt at creating a password generator.  I'm still having trouble with the JavaScript part of the assignment.  I'm not sure if I'm assigning the correct variables to the functions I created.  
